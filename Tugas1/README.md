@@ -229,9 +229,9 @@ sudo apt install -y build-essential linux-headers-$(uname -r)
     
     sudo nginx -s reload
     
-    ![46.png](Sistem%20Terdistribusi%20c0c70c1ed4d044058ba8ff382f27f1fc/46.png)
+    ![46.png](https://github.com/aisyadwi/Sistem-Terdistribusi/blob/main/Tugas1/assets/46.png)
     
-    ![49.png](Sistem%20Terdistribusi%20c0c70c1ed4d044058ba8ff382f27f1fc/49.png)
+    ![49.png](https://github.com/aisyadwi/Sistem-Terdistribusi/blob/main/Tugas1/assets/49.png)
     
 27. sudo nano /etc/hosts
     
